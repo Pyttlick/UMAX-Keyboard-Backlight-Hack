@@ -31,7 +31,7 @@ This simple mechanical hack fixes it — **no software, no system modifications,
 ---
 
 ### 📷 Photo:
-![Scroll Lock hack] photo.jpg
+![Scroll Lock hack](Photo.jpg)
 
 ---
 
